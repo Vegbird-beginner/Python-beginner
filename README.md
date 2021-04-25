@@ -12,3 +12,5 @@ elif val[-1] in ['F','f']:
     print("after transfered: %.2fC"%c)
 else:
     print("error")
+
+also I am new to Github too, feel free to make some comments
